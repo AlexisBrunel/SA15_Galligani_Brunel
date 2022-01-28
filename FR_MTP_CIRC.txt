@@ -1,0 +1,4 @@
+Nom du parking :CIRC
+Nombre total de places totales :1200
+Nombre de places libres :0585
+Pourcentage de places libres : 48.75%

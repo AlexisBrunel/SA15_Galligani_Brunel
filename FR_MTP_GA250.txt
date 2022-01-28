@@ -1,0 +1,4 @@
+Nom du parking :GAUMONT-OUEST
+Nombre total de places totales :0250
+Nombre de places libres :0198
+Pourcentage de places libres : 79.2%
