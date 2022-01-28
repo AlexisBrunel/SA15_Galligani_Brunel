@@ -1,0 +1,6 @@
+set xlabel 'time'
+set ylabel 'pourcentage'
+set xrange [0:100]
+set yrange [0:120]
+plot "C:\\Users\\alexi\\OneDrive\\Bureau\\Sae15\\dataparking" using 1:2 with lines title 'parking'
+

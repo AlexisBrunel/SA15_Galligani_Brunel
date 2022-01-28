@@ -180,7 +180,15 @@ nav.menu-nav footer ul h3{
 
 
 
-
+footer{
+	color:#f5870a;
+	font-size:14px;
+}
+footer h1 a {
+	color:white;
+	text-align:center;
+	
+}
 
 
 
