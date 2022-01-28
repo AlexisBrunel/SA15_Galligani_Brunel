@@ -3,3 +3,27 @@ body{
     background-size:100%;
 	background-color:#070794
 }
+header{
+    color:#ffff;
+    text-align:center;
+    font-size:50px;
+
+}
+
+nav.menu-nav ul h1.btn:hover a{
+	color:#054a5f;
+	background-color:#d68306;
+}
+
+nav.menu-nav ul h1.text {
+	color:#f5870a;
+	font-size:25px;
+	text-align:center;
+}
+nav.menu-nav ul h1.btn a{
+	color:#5c064d;
+	background-color:#1a64ad;
+	
+	text-decoration:none;
+	padding:20px;
+}
