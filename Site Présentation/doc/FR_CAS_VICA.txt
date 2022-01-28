@@ -1,0 +1,4 @@
+Nom du parking :VICA
+Nombre total de places totales :0074
+Nombre de places libres :0033
+Pourcentage de places libres : 44.59%

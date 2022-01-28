@@ -1,0 +1,33 @@
+header{
+	
+	text-align: center;
+	color:#ffff;
+	font-size:50px;
+   }
+
+body{
+	background-color:#06106e;
+
+}
+nav.menu-nav ul h1.btn:hover a{
+	color:#054a5f;
+	background-color:#d68306;
+}
+nav.menu-nav ul h1.btn a{
+	color:#5c064d;
+	background-color:#1a64ad;
+	
+	text-decoration:none;
+	padding:1px;
+}
+nav.menu-nav ul h1.text {
+	color:#f5870a;
+	font-size:25px;
+	text-align:center;
+}
+
+
+
+
+
+

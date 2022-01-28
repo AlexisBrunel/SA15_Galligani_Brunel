@@ -1,0 +1,241 @@
+
+nav.menu-nav ul li.btn{
+	list-style-type:none;
+	display:inline-block;
+	margin-left:700px;
+}
+nav.menu-nav ul li.btn a{
+	color:#1406d8;
+	background-color:#85aacf;
+	text-decoration:none;
+	
+	padding-left: 60%;
+	padding-right:60px;
+	padding-top:15px;
+	padding-bottom:15px;
+	text-align:center;
+	border-radius: 20%;
+	
+
+	
+	
+}
+
+
+
+
+
+nav.menu-nav ul li.btn1{
+	list-style-type:none;
+	display:inline-block;
+	margin-left:300px;
+}
+nav.menu-nav ul li.btn1 a{
+	color:#1406d8;
+	background-color:#85aacf;
+	text-decoration:none;
+	padding-left: 60%;
+	padding-right:60px;
+	padding-top:15px;
+	padding-bottom:15px;
+	text-align:center;
+	border-radius: 20%;
+	
+}
+
+
+nav.menu-nav ul li.btn2{
+	list-style-type:none;
+	display:inline-block;
+	margin-left:300px;
+}
+nav.menu-nav ul li.btn2 a{
+	color:#1406d8;
+	background-color:#85aacf;
+	text-decoration:none;
+	padding-left: 60%;
+	padding-right:60px;
+	padding-top:15px;
+	padding-bottom:15px;
+	text-align:center;
+	border-radius: 20%;
+	
+}
+nav.menu-nav ul li.btn3{
+	list-style-type:none;
+	display:inline-block;
+	margin-left:666px;
+}
+nav.menu-nav ul li.btn3 a{
+	color:#1406d8;
+	background-color:#85aacf;
+	text-decoration:none;
+	padding-left: 60%;
+	padding-right:60px;
+	padding-top:15px;
+	padding-bottom:15px;
+	text-align:center;
+	border-radius: 20%;
+}
+
+nav.menu-nav ul li.btn4{
+	list-style-type:none;
+	display:inline-block;
+	margin-left:670px;
+	border-radius: 20%;
+}
+nav.menu-nav ul li.btn4 a{
+	color:#1406d8;
+	background-color:#85aacf;
+	text-decoration:none;
+	padding:15px;
+	
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color:#1a64ad;
+	background-color:#FFA500;
+}
+nav.menu-nav ul li.btn1:hover a{
+	color:#1a64ad;
+	background-color:#FFA500;
+}
+nav.menu-nav ul li.btn2:hover a{
+	color:#1a64ad;
+	background-color:#FFA500;
+}
+nav.menu-nav ul li.btn3:hover a{
+	color:#1a64ad;
+	background-color:#FFA500;
+
+}
+nav.menu-nav ul li.btn4:hover a{
+	color:#1a64ad;
+	background-color:#FFA500;
+}
+nav.menu-nav ul h1.text {
+	color:#f5870a;
+}
+
+body{
+    
+    background-size:100%;
+	background-color:#070794
+}
+
+nav.menu-nav ul li.espace {
+	color:#070796;
+
+}
+
+
+footer{
+	background-color:#070796;
+	color:#1a64ad;
+	background: size 3px;
+}
+
+header{
+	background-color:#070796;
+	font-size:80px;
+	text-align:center;
+	color:#FFFF;
+}
+
+nav.menu-nav ul h1.pres {
+	color:#f5870a;
+	text-align:center;
+	
+
+}
+
+nav.menu-nav ul h3{
+	color:#f5870a;
+	font-size:15px;
+	text-align:center;
+}
+nav.menu-nav ul h4{
+	color:#f5870a;
+	font-size:15px;
+	text-align:center;
+}
+
+nav.menu-nav ul h6.text {
+	color:#f5870a;
+	text-align:center;
+	font-size:15px;
+}
+
+
+
+
+
+
+nav.menu-nav footer ul h3{
+	color:#f5870a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*p.Bienvenue{
+	color:red;
+}
+
+p.intro{
+	color:#3A12AA;
+}
+
+body{
+    background: url("https://euw.leagueoflegends.com/sites/default/files/styles/scale_xlarge/public/upload/t2_vs_logo.jpg?itok=0ZEWZEVB") no-repeat;
+    background-size:100%;
+}
+
+h1.titre{
+    color:#7A121C;
+	font-size:50px;
+	padding-left:400px;
+}*/
+
+

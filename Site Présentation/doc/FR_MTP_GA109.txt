@@ -1,0 +1,4 @@
+Nom du parking :GAUMONT-EST
+Nombre total de places totales :0109
+Nombre de places libres :0092
+Pourcentage de places libres : 84.4%

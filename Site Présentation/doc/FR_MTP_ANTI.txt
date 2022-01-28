@@ -1,0 +1,4 @@
+Nom du parking :ANTI
+Nombre total de places totales :0239
+Nombre de places libres :0131
+Pourcentage de places libres : 54.81%

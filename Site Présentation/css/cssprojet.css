@@ -1,0 +1,25 @@
+body{
+    
+    background-size:100%;
+	background-color:#070794
+}
+
+header{
+    color:#ffff;
+    font-size:60px;
+    text-align:center;
+}
+
+
+nav.menu-nav ul h1{
+    color:#d68306;
+    font-size:35px;
+}
+nav.menu-nav ul h2{
+    color:#d68306;
+    font-size:25px;
+}
+nav.menu-nav ul h3{
+    color:#d68306;
+    font-size:25px;
+}

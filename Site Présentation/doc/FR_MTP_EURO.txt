@@ -1,0 +1,4 @@
+Nom du parking :EURO
+Nombre total de places totales :0593
+Nombre de places libres :0292
+Pourcentage de places libres : 49.24%
