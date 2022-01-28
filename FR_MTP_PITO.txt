@@ -1,4 +1,4 @@
 Nom du parking :Pitot
 Nombre total de places totales :588
-Nombre de places libres :269
-Pourcentage de places libres : 45.75%
+Nombre de places libres :276
+Pourcentage de places libres : 46.94%

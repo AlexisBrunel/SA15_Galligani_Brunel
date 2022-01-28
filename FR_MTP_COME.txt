@@ -1,4 +1,4 @@
 Nom du parking :COME
 Nombre total de places totales :0835
-Nombre de places libres :0154
-Pourcentage de places libres : 18.44%
+Nombre de places libres :0179
+Pourcentage de places libres : 21.44%

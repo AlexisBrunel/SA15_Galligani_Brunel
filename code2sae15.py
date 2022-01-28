@@ -15,7 +15,7 @@ def recupvelo ():
         f2=open("Resultat.txt",'w',encoding='utf8')
         tree=etree.parse('velo.xml')
         f1=open("datavelo.txt", "w",encoding="utf8")
-        for i in range(0, 1):    
+        for i in range(0, 60):    
             for si in tree.xpath('/vcs/sl/si'):
                 nom=si.get('na')
                 place_libre=si.get('fr')
@@ -32,7 +32,7 @@ def recupvelo ():
                 f2.write("\n")
             m=stat.pourcentage(total_libre, total)
             f1.write(str(i)+" "+str(round(m, 2))+"\n")
-            sleep(3)
+            sleep(60)
         f1.close()
         f2.close()
         os.remove('velo.xml')
