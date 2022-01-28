@@ -1,4 +1,4 @@
 Nom du parking :OCCI
 Nombre total de places totales :0627
-Nombre de places libres :0387
-Pourcentage de places libres : 61.72%
+Nombre de places libres :0442
+Pourcentage de places libres : 70.49%

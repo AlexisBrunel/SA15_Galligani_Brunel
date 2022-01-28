@@ -1,4 +1,4 @@
 Nom du parking :SJLC
 Nombre total de places totales :0290
-Nombre de places libres :0175
-Pourcentage de places libres : 60.34%
+Nombre de places libres :0185
+Pourcentage de places libres : 63.79%

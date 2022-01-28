@@ -14,7 +14,7 @@ def recupparking(v):
 
     f1=open("dataparking.txt","w",encoding='utf8')
     
-    for i in range(0,3):
+    for i in range(0,20):
 
 
         total_place=0#Pour pourcentage total 
@@ -52,7 +52,7 @@ def recupparking(v):
         print ("Le pourcentage total de places occupés de tout les parkings réunis est de :",round(m,2),"%")
         #Pourcentage de place libre pour tout les parkigs (arrondi au centiéme pres)
         f1.write(str(i)+" "+str(round(m, 2))+"\n")
-        sleep(3) 
+        sleep(60) 
          
     f1.close()
     

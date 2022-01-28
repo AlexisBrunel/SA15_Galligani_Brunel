@@ -4,44 +4,44 @@
  Pourcentage place libre : 58.33%
 
 002 Comédie
- Place libre : 16
+ Place libre : 17
  Place total : 24
- Pourcentage place libre : 66.67%
+ Pourcentage place libre : 70.83%
 
 003 Esplanade
- Place libre : 30
+ Place libre : 31
  Place total : 32
- Pourcentage place libre : 93.75%
+ Pourcentage place libre : 96.88%
 
 004 Hôtel de Ville
- Place libre : 10
+ Place libre : 12
  Place total : 16
- Pourcentage place libre : 62.5%
-
-005 Corum
- Place libre : 3
- Place total : 12
- Pourcentage place libre : 25.0%
-
-006 Place Albert 1er - St Charles
- Place libre : 19
- Place total : 31
- Pourcentage place libre : 61.29%
-
-007 Foch
- Place libre : 6
- Place total : 8
  Pourcentage place libre : 75.0%
 
-008 Halles Castellane
- Place libre : 6
+005 Corum
+ Place libre : 8
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
 
 009 Observatoire
- Place libre : 3
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 50.0%
 
 010 Rondelet
  Place libre : 6
@@ -54,9 +54,9 @@
  Pourcentage place libre : 75.0%
 
 012 Boutonnet
- Place libre : 11
+ Place libre : 9
  Place total : 12
- Pourcentage place libre : 91.67%
+ Pourcentage place libre : 75.0%
 
 013 Emile Combes
  Place libre : 2
@@ -64,9 +64,9 @@
  Pourcentage place libre : 25.0%
 
 014 Beaux-Arts
- Place libre : 8
+ Place libre : 6
  Place total : 8
- Pourcentage place libre : 100.0%
+ Pourcentage place libre : 75.0%
 
 015 Les Aubes
  Place libre : 5
@@ -74,14 +74,14 @@
  Pourcentage place libre : 62.5%
 
 016 Antigone centre
- Place libre : 6
+ Place libre : 5
  Place total : 16
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 31.25%
 
 017 Médiathèque Emile Zola
- Place libre : 10
+ Place libre : 8
  Place total : 16
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 50.0%
 
 018 Nombre d'Or
  Place libre : 12
@@ -89,29 +89,29 @@
  Pourcentage place libre : 75.0%
 
 019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
  Place libre : 8
  Place total : 16
  Pourcentage place libre : 50.0%
-
-020 Gambetta
- Place libre : 5
- Place total : 8
- Pourcentage place libre : 62.5%
-
-021 Port Marianne
- Place libre : 15
- Place total : 16
- Pourcentage place libre : 93.75%
-
-022 Clemenceau
- Place libre : 5
- Place total : 12
- Pourcentage place libre : 41.67%
-
-023 Les Arceaux
- Place libre : 9
- Place total : 16
- Pourcentage place libre : 56.25%
 
 024 Cité Mion
  Place libre : 3
@@ -119,9 +119,9 @@
  Pourcentage place libre : 37.5%
 
 025 Nouveau Saint-Roch
- Place libre : 3
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 62.5%
 
 026 Renouvier
  Place libre : 5
@@ -134,14 +134,14 @@
  Pourcentage place libre : 62.5%
 
 028 Saint-Denis
- Place libre : 2
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 25.0%
+ Pourcentage place libre : 50.0%
 
 029 Richter
- Place libre : 11
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 68.75%
+ Pourcentage place libre : 62.5%
 
 030 Charles Flahault
  Place libre : 5
@@ -149,9 +149,9 @@
  Pourcentage place libre : 62.5%
 
 031 Voltaire
- Place libre : 7
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 100.0%
 
 032 Prés d'Arènes
  Place libre : 2
@@ -159,9 +159,9 @@
  Pourcentage place libre : 25.0%
 
 033 Garcia Lorca
- Place libre : 5
+ Place libre : 0
  Place total : 8
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 0.0%
 
 034 Vert Bois
  Place libre : 16
@@ -174,29 +174,29 @@
  Pourcentage place libre : 50.0%
 
 036 Occitanie
- Place libre : 26
+ Place libre : 25
  Place total : 32
- Pourcentage place libre : 81.25%
+ Pourcentage place libre : 78.12%
 
 037 FacdesSciences
- Place libre : 11
+ Place libre : 18
  Place total : 24
- Pourcentage place libre : 45.83%
+ Pourcentage place libre : 75.0%
 
 038 Fac de Lettres
- Place libre : 14
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 039 Aiguelongue
- Place libre : 2
- Place total : 8
- Pourcentage place libre : 25.0%
-
-040 Jeu de Mail des Abbés
  Place libre : 1
  Place total : 8
  Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 041 Euromédecine
  Place libre : 4
@@ -204,19 +204,19 @@
  Pourcentage place libre : 50.0%
 
 042 Marie Caizergues
- Place libre : 7
- Place total : 8
- Pourcentage place libre : 87.5%
-
-043 Sabines
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
-
-044 Celleneuve
  Place libre : 6
  Place total : 8
  Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 045 Jardin de la Lironde
  Place libre : 4
@@ -224,19 +224,19 @@
  Pourcentage place libre : 50.0%
 
 046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
  Place libre : 5
  Place total : 8
  Pourcentage place libre : 62.5%
-
-047 Place Viala
- Place libre : 4
- Place total : 8
- Pourcentage place libre : 50.0%
-
-048 Hôtel du Département
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
 
 049 Tonnelles
  Place libre : 5
@@ -254,29 +254,29 @@
  Pourcentage place libre : 91.67%
 
 053 Deux Ponts - Gare Saint-Roch
- Place libre : 4
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 62.5%
 
 054 Providence - Ovalie
- Place libre : 6
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 75.0%
+ Pourcentage place libre : 100.0%
 
 055 Pérols Etang de l'Or
- Place libre : 53
+ Place libre : 55
  Place total : 68
- Pourcentage place libre : 77.94%
+ Pourcentage place libre : 80.88%
 
 056 Albert 1er - Cathédrale
- Place libre : 6
+ Place libre : 5
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 41.67%
 
 057 Saint-Guilhem - Courreau
- Place libre : 7
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 059 Sud De France
  Place libre : 2
@@ -289,44 +289,44 @@
  Pourcentage place libre : 58.33%
 
 002 Comédie
- Place libre : 16
+ Place libre : 17
  Place total : 24
- Pourcentage place libre : 66.67%
+ Pourcentage place libre : 70.83%
 
 003 Esplanade
- Place libre : 30
+ Place libre : 31
  Place total : 32
- Pourcentage place libre : 93.75%
+ Pourcentage place libre : 96.88%
 
 004 Hôtel de Ville
- Place libre : 10
+ Place libre : 12
  Place total : 16
- Pourcentage place libre : 62.5%
-
-005 Corum
- Place libre : 3
- Place total : 12
- Pourcentage place libre : 25.0%
-
-006 Place Albert 1er - St Charles
- Place libre : 19
- Place total : 31
- Pourcentage place libre : 61.29%
-
-007 Foch
- Place libre : 6
- Place total : 8
  Pourcentage place libre : 75.0%
 
-008 Halles Castellane
- Place libre : 6
+005 Corum
+ Place libre : 8
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
 
 009 Observatoire
- Place libre : 3
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 50.0%
 
 010 Rondelet
  Place libre : 6
@@ -339,9 +339,9 @@
  Pourcentage place libre : 75.0%
 
 012 Boutonnet
- Place libre : 11
+ Place libre : 9
  Place total : 12
- Pourcentage place libre : 91.67%
+ Pourcentage place libre : 75.0%
 
 013 Emile Combes
  Place libre : 2
@@ -349,9 +349,9 @@
  Pourcentage place libre : 25.0%
 
 014 Beaux-Arts
- Place libre : 8
+ Place libre : 6
  Place total : 8
- Pourcentage place libre : 100.0%
+ Pourcentage place libre : 75.0%
 
 015 Les Aubes
  Place libre : 5
@@ -359,14 +359,14 @@
  Pourcentage place libre : 62.5%
 
 016 Antigone centre
- Place libre : 6
+ Place libre : 5
  Place total : 16
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 31.25%
 
 017 Médiathèque Emile Zola
- Place libre : 10
+ Place libre : 8
  Place total : 16
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 50.0%
 
 018 Nombre d'Or
  Place libre : 12
@@ -374,29 +374,29 @@
  Pourcentage place libre : 75.0%
 
 019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
  Place libre : 8
  Place total : 16
  Pourcentage place libre : 50.0%
-
-020 Gambetta
- Place libre : 5
- Place total : 8
- Pourcentage place libre : 62.5%
-
-021 Port Marianne
- Place libre : 15
- Place total : 16
- Pourcentage place libre : 93.75%
-
-022 Clemenceau
- Place libre : 5
- Place total : 12
- Pourcentage place libre : 41.67%
-
-023 Les Arceaux
- Place libre : 9
- Place total : 16
- Pourcentage place libre : 56.25%
 
 024 Cité Mion
  Place libre : 3
@@ -404,9 +404,9 @@
  Pourcentage place libre : 37.5%
 
 025 Nouveau Saint-Roch
- Place libre : 3
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 62.5%
 
 026 Renouvier
  Place libre : 5
@@ -419,14 +419,14 @@
  Pourcentage place libre : 62.5%
 
 028 Saint-Denis
- Place libre : 2
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 25.0%
+ Pourcentage place libre : 50.0%
 
 029 Richter
- Place libre : 11
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 68.75%
+ Pourcentage place libre : 62.5%
 
 030 Charles Flahault
  Place libre : 5
@@ -434,9 +434,9 @@
  Pourcentage place libre : 62.5%
 
 031 Voltaire
- Place libre : 7
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 100.0%
 
 032 Prés d'Arènes
  Place libre : 2
@@ -444,9 +444,9 @@
  Pourcentage place libre : 25.0%
 
 033 Garcia Lorca
- Place libre : 5
+ Place libre : 0
  Place total : 8
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 0.0%
 
 034 Vert Bois
  Place libre : 16
@@ -459,29 +459,29 @@
  Pourcentage place libre : 50.0%
 
 036 Occitanie
- Place libre : 26
+ Place libre : 25
  Place total : 32
- Pourcentage place libre : 81.25%
+ Pourcentage place libre : 78.12%
 
 037 FacdesSciences
- Place libre : 11
+ Place libre : 18
  Place total : 24
- Pourcentage place libre : 45.83%
+ Pourcentage place libre : 75.0%
 
 038 Fac de Lettres
- Place libre : 14
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 039 Aiguelongue
- Place libre : 2
- Place total : 8
- Pourcentage place libre : 25.0%
-
-040 Jeu de Mail des Abbés
  Place libre : 1
  Place total : 8
  Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 041 Euromédecine
  Place libre : 4
@@ -489,19 +489,19 @@
  Pourcentage place libre : 50.0%
 
 042 Marie Caizergues
- Place libre : 7
- Place total : 8
- Pourcentage place libre : 87.5%
-
-043 Sabines
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
-
-044 Celleneuve
  Place libre : 6
  Place total : 8
  Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 045 Jardin de la Lironde
  Place libre : 4
@@ -509,19 +509,19 @@
  Pourcentage place libre : 50.0%
 
 046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
  Place libre : 5
  Place total : 8
  Pourcentage place libre : 62.5%
-
-047 Place Viala
- Place libre : 4
- Place total : 8
- Pourcentage place libre : 50.0%
-
-048 Hôtel du Département
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
 
 049 Tonnelles
  Place libre : 5
@@ -539,29 +539,29 @@
  Pourcentage place libre : 91.67%
 
 053 Deux Ponts - Gare Saint-Roch
- Place libre : 4
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 62.5%
 
 054 Providence - Ovalie
- Place libre : 6
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 75.0%
+ Pourcentage place libre : 100.0%
 
 055 Pérols Etang de l'Or
- Place libre : 53
+ Place libre : 55
  Place total : 68
- Pourcentage place libre : 77.94%
+ Pourcentage place libre : 80.88%
 
 056 Albert 1er - Cathédrale
- Place libre : 6
+ Place libre : 5
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 41.67%
 
 057 Saint-Guilhem - Courreau
- Place libre : 7
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 059 Sud De France
  Place libre : 2
@@ -574,44 +574,44 @@
  Pourcentage place libre : 58.33%
 
 002 Comédie
- Place libre : 16
+ Place libre : 17
  Place total : 24
- Pourcentage place libre : 66.67%
+ Pourcentage place libre : 70.83%
 
 003 Esplanade
- Place libre : 30
+ Place libre : 31
  Place total : 32
- Pourcentage place libre : 93.75%
+ Pourcentage place libre : 96.88%
 
 004 Hôtel de Ville
- Place libre : 10
+ Place libre : 12
  Place total : 16
- Pourcentage place libre : 62.5%
-
-005 Corum
- Place libre : 3
- Place total : 12
- Pourcentage place libre : 25.0%
-
-006 Place Albert 1er - St Charles
- Place libre : 19
- Place total : 31
- Pourcentage place libre : 61.29%
-
-007 Foch
- Place libre : 6
- Place total : 8
  Pourcentage place libre : 75.0%
 
-008 Halles Castellane
- Place libre : 6
+005 Corum
+ Place libre : 8
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
 
 009 Observatoire
- Place libre : 3
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 50.0%
 
 010 Rondelet
  Place libre : 6
@@ -624,9 +624,9 @@
  Pourcentage place libre : 75.0%
 
 012 Boutonnet
- Place libre : 11
+ Place libre : 9
  Place total : 12
- Pourcentage place libre : 91.67%
+ Pourcentage place libre : 75.0%
 
 013 Emile Combes
  Place libre : 2
@@ -634,9 +634,9 @@
  Pourcentage place libre : 25.0%
 
 014 Beaux-Arts
- Place libre : 8
+ Place libre : 6
  Place total : 8
- Pourcentage place libre : 100.0%
+ Pourcentage place libre : 75.0%
 
 015 Les Aubes
  Place libre : 5
@@ -644,14 +644,14 @@
  Pourcentage place libre : 62.5%
 
 016 Antigone centre
- Place libre : 6
+ Place libre : 5
  Place total : 16
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 31.25%
 
 017 Médiathèque Emile Zola
- Place libre : 10
+ Place libre : 8
  Place total : 16
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 50.0%
 
 018 Nombre d'Or
  Place libre : 12
@@ -659,29 +659,29 @@
  Pourcentage place libre : 75.0%
 
 019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
  Place libre : 8
  Place total : 16
  Pourcentage place libre : 50.0%
-
-020 Gambetta
- Place libre : 5
- Place total : 8
- Pourcentage place libre : 62.5%
-
-021 Port Marianne
- Place libre : 15
- Place total : 16
- Pourcentage place libre : 93.75%
-
-022 Clemenceau
- Place libre : 5
- Place total : 12
- Pourcentage place libre : 41.67%
-
-023 Les Arceaux
- Place libre : 9
- Place total : 16
- Pourcentage place libre : 56.25%
 
 024 Cité Mion
  Place libre : 3
@@ -689,9 +689,9 @@
  Pourcentage place libre : 37.5%
 
 025 Nouveau Saint-Roch
- Place libre : 3
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 62.5%
 
 026 Renouvier
  Place libre : 5
@@ -704,14 +704,14 @@
  Pourcentage place libre : 62.5%
 
 028 Saint-Denis
- Place libre : 2
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 25.0%
+ Pourcentage place libre : 50.0%
 
 029 Richter
- Place libre : 11
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 68.75%
+ Pourcentage place libre : 62.5%
 
 030 Charles Flahault
  Place libre : 5
@@ -719,9 +719,9 @@
  Pourcentage place libre : 62.5%
 
 031 Voltaire
- Place libre : 7
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 100.0%
 
 032 Prés d'Arènes
  Place libre : 2
@@ -729,9 +729,9 @@
  Pourcentage place libre : 25.0%
 
 033 Garcia Lorca
- Place libre : 5
+ Place libre : 0
  Place total : 8
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 0.0%
 
 034 Vert Bois
  Place libre : 16
@@ -744,29 +744,29 @@
  Pourcentage place libre : 50.0%
 
 036 Occitanie
- Place libre : 26
+ Place libre : 25
  Place total : 32
- Pourcentage place libre : 81.25%
+ Pourcentage place libre : 78.12%
 
 037 FacdesSciences
- Place libre : 11
+ Place libre : 18
  Place total : 24
- Pourcentage place libre : 45.83%
+ Pourcentage place libre : 75.0%
 
 038 Fac de Lettres
- Place libre : 14
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 039 Aiguelongue
- Place libre : 2
- Place total : 8
- Pourcentage place libre : 25.0%
-
-040 Jeu de Mail des Abbés
  Place libre : 1
  Place total : 8
  Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 041 Euromédecine
  Place libre : 4
@@ -774,19 +774,19 @@
  Pourcentage place libre : 50.0%
 
 042 Marie Caizergues
- Place libre : 7
- Place total : 8
- Pourcentage place libre : 87.5%
-
-043 Sabines
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
-
-044 Celleneuve
  Place libre : 6
  Place total : 8
  Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 045 Jardin de la Lironde
  Place libre : 4
@@ -794,19 +794,19 @@
  Pourcentage place libre : 50.0%
 
 046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
  Place libre : 5
  Place total : 8
  Pourcentage place libre : 62.5%
-
-047 Place Viala
- Place libre : 4
- Place total : 8
- Pourcentage place libre : 50.0%
-
-048 Hôtel du Département
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
 
 049 Tonnelles
  Place libre : 5
@@ -824,29 +824,29 @@
  Pourcentage place libre : 91.67%
 
 053 Deux Ponts - Gare Saint-Roch
- Place libre : 4
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 62.5%
 
 054 Providence - Ovalie
- Place libre : 6
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 75.0%
+ Pourcentage place libre : 100.0%
 
 055 Pérols Etang de l'Or
- Place libre : 53
+ Place libre : 55
  Place total : 68
- Pourcentage place libre : 77.94%
+ Pourcentage place libre : 80.88%
 
 056 Albert 1er - Cathédrale
- Place libre : 6
+ Place libre : 5
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 41.67%
 
 057 Saint-Guilhem - Courreau
- Place libre : 7
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 059 Sud De France
  Place libre : 2
@@ -859,44 +859,44 @@
  Pourcentage place libre : 58.33%
 
 002 Comédie
- Place libre : 16
+ Place libre : 17
  Place total : 24
- Pourcentage place libre : 66.67%
+ Pourcentage place libre : 70.83%
 
 003 Esplanade
- Place libre : 30
+ Place libre : 31
  Place total : 32
- Pourcentage place libre : 93.75%
+ Pourcentage place libre : 96.88%
 
 004 Hôtel de Ville
- Place libre : 10
+ Place libre : 12
  Place total : 16
- Pourcentage place libre : 62.5%
-
-005 Corum
- Place libre : 3
- Place total : 12
- Pourcentage place libre : 25.0%
-
-006 Place Albert 1er - St Charles
- Place libre : 19
- Place total : 31
- Pourcentage place libre : 61.29%
-
-007 Foch
- Place libre : 6
- Place total : 8
  Pourcentage place libre : 75.0%
 
-008 Halles Castellane
- Place libre : 6
+005 Corum
+ Place libre : 8
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
 
 009 Observatoire
- Place libre : 3
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 50.0%
 
 010 Rondelet
  Place libre : 6
@@ -909,9 +909,9 @@
  Pourcentage place libre : 75.0%
 
 012 Boutonnet
- Place libre : 11
+ Place libre : 9
  Place total : 12
- Pourcentage place libre : 91.67%
+ Pourcentage place libre : 75.0%
 
 013 Emile Combes
  Place libre : 2
@@ -919,9 +919,9 @@
  Pourcentage place libre : 25.0%
 
 014 Beaux-Arts
- Place libre : 8
+ Place libre : 6
  Place total : 8
- Pourcentage place libre : 100.0%
+ Pourcentage place libre : 75.0%
 
 015 Les Aubes
  Place libre : 5
@@ -929,14 +929,14 @@
  Pourcentage place libre : 62.5%
 
 016 Antigone centre
- Place libre : 6
+ Place libre : 5
  Place total : 16
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 31.25%
 
 017 Médiathèque Emile Zola
- Place libre : 10
+ Place libre : 8
  Place total : 16
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 50.0%
 
 018 Nombre d'Or
  Place libre : 12
@@ -944,29 +944,29 @@
  Pourcentage place libre : 75.0%
 
 019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
  Place libre : 8
  Place total : 16
  Pourcentage place libre : 50.0%
-
-020 Gambetta
- Place libre : 5
- Place total : 8
- Pourcentage place libre : 62.5%
-
-021 Port Marianne
- Place libre : 15
- Place total : 16
- Pourcentage place libre : 93.75%
-
-022 Clemenceau
- Place libre : 5
- Place total : 12
- Pourcentage place libre : 41.67%
-
-023 Les Arceaux
- Place libre : 9
- Place total : 16
- Pourcentage place libre : 56.25%
 
 024 Cité Mion
  Place libre : 3
@@ -974,9 +974,9 @@
  Pourcentage place libre : 37.5%
 
 025 Nouveau Saint-Roch
- Place libre : 3
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 62.5%
 
 026 Renouvier
  Place libre : 5
@@ -989,14 +989,14 @@
  Pourcentage place libre : 62.5%
 
 028 Saint-Denis
- Place libre : 2
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 25.0%
+ Pourcentage place libre : 50.0%
 
 029 Richter
- Place libre : 11
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 68.75%
+ Pourcentage place libre : 62.5%
 
 030 Charles Flahault
  Place libre : 5
@@ -1004,9 +1004,9 @@
  Pourcentage place libre : 62.5%
 
 031 Voltaire
- Place libre : 7
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 100.0%
 
 032 Prés d'Arènes
  Place libre : 2
@@ -1014,9 +1014,9 @@
  Pourcentage place libre : 25.0%
 
 033 Garcia Lorca
- Place libre : 5
+ Place libre : 0
  Place total : 8
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 0.0%
 
 034 Vert Bois
  Place libre : 16
@@ -1029,29 +1029,29 @@
  Pourcentage place libre : 50.0%
 
 036 Occitanie
- Place libre : 26
+ Place libre : 25
  Place total : 32
- Pourcentage place libre : 81.25%
+ Pourcentage place libre : 78.12%
 
 037 FacdesSciences
- Place libre : 11
+ Place libre : 18
  Place total : 24
- Pourcentage place libre : 45.83%
+ Pourcentage place libre : 75.0%
 
 038 Fac de Lettres
- Place libre : 14
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 039 Aiguelongue
- Place libre : 2
- Place total : 8
- Pourcentage place libre : 25.0%
-
-040 Jeu de Mail des Abbés
  Place libre : 1
  Place total : 8
  Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 041 Euromédecine
  Place libre : 4
@@ -1059,19 +1059,19 @@
  Pourcentage place libre : 50.0%
 
 042 Marie Caizergues
- Place libre : 7
- Place total : 8
- Pourcentage place libre : 87.5%
-
-043 Sabines
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
-
-044 Celleneuve
  Place libre : 6
  Place total : 8
  Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 045 Jardin de la Lironde
  Place libre : 4
@@ -1079,19 +1079,19 @@
  Pourcentage place libre : 50.0%
 
 046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
  Place libre : 5
  Place total : 8
  Pourcentage place libre : 62.5%
-
-047 Place Viala
- Place libre : 4
- Place total : 8
- Pourcentage place libre : 50.0%
-
-048 Hôtel du Département
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
 
 049 Tonnelles
  Place libre : 5
@@ -1109,29 +1109,29 @@
  Pourcentage place libre : 91.67%
 
 053 Deux Ponts - Gare Saint-Roch
- Place libre : 4
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 62.5%
 
 054 Providence - Ovalie
- Place libre : 6
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 75.0%
+ Pourcentage place libre : 100.0%
 
 055 Pérols Etang de l'Or
- Place libre : 53
+ Place libre : 55
  Place total : 68
- Pourcentage place libre : 77.94%
+ Pourcentage place libre : 80.88%
 
 056 Albert 1er - Cathédrale
- Place libre : 6
+ Place libre : 5
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 41.67%
 
 057 Saint-Guilhem - Courreau
- Place libre : 7
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 059 Sud De France
  Place libre : 2
@@ -1144,44 +1144,44 @@
  Pourcentage place libre : 58.33%
 
 002 Comédie
- Place libre : 16
+ Place libre : 17
  Place total : 24
- Pourcentage place libre : 66.67%
+ Pourcentage place libre : 70.83%
 
 003 Esplanade
- Place libre : 30
+ Place libre : 31
  Place total : 32
- Pourcentage place libre : 93.75%
+ Pourcentage place libre : 96.88%
 
 004 Hôtel de Ville
- Place libre : 10
+ Place libre : 12
  Place total : 16
- Pourcentage place libre : 62.5%
-
-005 Corum
- Place libre : 3
- Place total : 12
- Pourcentage place libre : 25.0%
-
-006 Place Albert 1er - St Charles
- Place libre : 19
- Place total : 31
- Pourcentage place libre : 61.29%
-
-007 Foch
- Place libre : 6
- Place total : 8
  Pourcentage place libre : 75.0%
 
-008 Halles Castellane
- Place libre : 6
+005 Corum
+ Place libre : 8
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
 
 009 Observatoire
- Place libre : 3
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 50.0%
 
 010 Rondelet
  Place libre : 6
@@ -1194,9 +1194,9 @@
  Pourcentage place libre : 75.0%
 
 012 Boutonnet
- Place libre : 11
+ Place libre : 9
  Place total : 12
- Pourcentage place libre : 91.67%
+ Pourcentage place libre : 75.0%
 
 013 Emile Combes
  Place libre : 2
@@ -1204,9 +1204,9 @@
  Pourcentage place libre : 25.0%
 
 014 Beaux-Arts
- Place libre : 8
+ Place libre : 6
  Place total : 8
- Pourcentage place libre : 100.0%
+ Pourcentage place libre : 75.0%
 
 015 Les Aubes
  Place libre : 5
@@ -1214,14 +1214,14 @@
  Pourcentage place libre : 62.5%
 
 016 Antigone centre
- Place libre : 6
+ Place libre : 5
  Place total : 16
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 31.25%
 
 017 Médiathèque Emile Zola
- Place libre : 10
+ Place libre : 8
  Place total : 16
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 50.0%
 
 018 Nombre d'Or
  Place libre : 12
@@ -1229,29 +1229,29 @@
  Pourcentage place libre : 75.0%
 
 019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
  Place libre : 8
  Place total : 16
  Pourcentage place libre : 50.0%
-
-020 Gambetta
- Place libre : 5
- Place total : 8
- Pourcentage place libre : 62.5%
-
-021 Port Marianne
- Place libre : 15
- Place total : 16
- Pourcentage place libre : 93.75%
-
-022 Clemenceau
- Place libre : 5
- Place total : 12
- Pourcentage place libre : 41.67%
-
-023 Les Arceaux
- Place libre : 9
- Place total : 16
- Pourcentage place libre : 56.25%
 
 024 Cité Mion
  Place libre : 3
@@ -1259,9 +1259,9 @@
  Pourcentage place libre : 37.5%
 
 025 Nouveau Saint-Roch
- Place libre : 3
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 62.5%
 
 026 Renouvier
  Place libre : 5
@@ -1274,14 +1274,14 @@
  Pourcentage place libre : 62.5%
 
 028 Saint-Denis
- Place libre : 2
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 25.0%
+ Pourcentage place libre : 50.0%
 
 029 Richter
- Place libre : 11
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 68.75%
+ Pourcentage place libre : 62.5%
 
 030 Charles Flahault
  Place libre : 5
@@ -1289,9 +1289,9 @@
  Pourcentage place libre : 62.5%
 
 031 Voltaire
- Place libre : 7
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 100.0%
 
 032 Prés d'Arènes
  Place libre : 2
@@ -1299,9 +1299,9 @@
  Pourcentage place libre : 25.0%
 
 033 Garcia Lorca
- Place libre : 5
+ Place libre : 0
  Place total : 8
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 0.0%
 
 034 Vert Bois
  Place libre : 16
@@ -1314,29 +1314,29 @@
  Pourcentage place libre : 50.0%
 
 036 Occitanie
- Place libre : 26
+ Place libre : 25
  Place total : 32
- Pourcentage place libre : 81.25%
+ Pourcentage place libre : 78.12%
 
 037 FacdesSciences
- Place libre : 11
+ Place libre : 18
  Place total : 24
- Pourcentage place libre : 45.83%
+ Pourcentage place libre : 75.0%
 
 038 Fac de Lettres
- Place libre : 14
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 039 Aiguelongue
- Place libre : 2
- Place total : 8
- Pourcentage place libre : 25.0%
-
-040 Jeu de Mail des Abbés
  Place libre : 1
  Place total : 8
  Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 041 Euromédecine
  Place libre : 4
@@ -1344,19 +1344,19 @@
  Pourcentage place libre : 50.0%
 
 042 Marie Caizergues
- Place libre : 7
- Place total : 8
- Pourcentage place libre : 87.5%
-
-043 Sabines
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
-
-044 Celleneuve
  Place libre : 6
  Place total : 8
  Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 045 Jardin de la Lironde
  Place libre : 4
@@ -1364,19 +1364,19 @@
  Pourcentage place libre : 50.0%
 
 046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
  Place libre : 5
  Place total : 8
  Pourcentage place libre : 62.5%
-
-047 Place Viala
- Place libre : 4
- Place total : 8
- Pourcentage place libre : 50.0%
-
-048 Hôtel du Département
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
 
 049 Tonnelles
  Place libre : 5
@@ -1394,29 +1394,29 @@
  Pourcentage place libre : 91.67%
 
 053 Deux Ponts - Gare Saint-Roch
- Place libre : 4
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 62.5%
 
 054 Providence - Ovalie
- Place libre : 6
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 75.0%
+ Pourcentage place libre : 100.0%
 
 055 Pérols Etang de l'Or
- Place libre : 53
+ Place libre : 55
  Place total : 68
- Pourcentage place libre : 77.94%
+ Pourcentage place libre : 80.88%
 
 056 Albert 1er - Cathédrale
- Place libre : 6
+ Place libre : 5
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 41.67%
 
 057 Saint-Guilhem - Courreau
- Place libre : 7
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 059 Sud De France
  Place libre : 2
@@ -1429,44 +1429,44 @@
  Pourcentage place libre : 58.33%
 
 002 Comédie
- Place libre : 16
+ Place libre : 17
  Place total : 24
- Pourcentage place libre : 66.67%
+ Pourcentage place libre : 70.83%
 
 003 Esplanade
- Place libre : 30
+ Place libre : 31
  Place total : 32
- Pourcentage place libre : 93.75%
+ Pourcentage place libre : 96.88%
 
 004 Hôtel de Ville
- Place libre : 10
+ Place libre : 12
  Place total : 16
- Pourcentage place libre : 62.5%
-
-005 Corum
- Place libre : 3
- Place total : 12
- Pourcentage place libre : 25.0%
-
-006 Place Albert 1er - St Charles
- Place libre : 19
- Place total : 31
- Pourcentage place libre : 61.29%
-
-007 Foch
- Place libre : 6
- Place total : 8
  Pourcentage place libre : 75.0%
 
-008 Halles Castellane
- Place libre : 6
+005 Corum
+ Place libre : 8
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
 
 009 Observatoire
- Place libre : 3
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 50.0%
 
 010 Rondelet
  Place libre : 6
@@ -1479,9 +1479,9 @@
  Pourcentage place libre : 75.0%
 
 012 Boutonnet
- Place libre : 11
+ Place libre : 9
  Place total : 12
- Pourcentage place libre : 91.67%
+ Pourcentage place libre : 75.0%
 
 013 Emile Combes
  Place libre : 2
@@ -1489,9 +1489,9 @@
  Pourcentage place libre : 25.0%
 
 014 Beaux-Arts
- Place libre : 8
+ Place libre : 6
  Place total : 8
- Pourcentage place libre : 100.0%
+ Pourcentage place libre : 75.0%
 
 015 Les Aubes
  Place libre : 5
@@ -1499,14 +1499,14 @@
  Pourcentage place libre : 62.5%
 
 016 Antigone centre
- Place libre : 6
+ Place libre : 5
  Place total : 16
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 31.25%
 
 017 Médiathèque Emile Zola
- Place libre : 10
+ Place libre : 8
  Place total : 16
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 50.0%
 
 018 Nombre d'Or
  Place libre : 12
@@ -1514,29 +1514,29 @@
  Pourcentage place libre : 75.0%
 
 019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
  Place libre : 8
  Place total : 16
  Pourcentage place libre : 50.0%
-
-020 Gambetta
- Place libre : 5
- Place total : 8
- Pourcentage place libre : 62.5%
-
-021 Port Marianne
- Place libre : 15
- Place total : 16
- Pourcentage place libre : 93.75%
-
-022 Clemenceau
- Place libre : 5
- Place total : 12
- Pourcentage place libre : 41.67%
-
-023 Les Arceaux
- Place libre : 9
- Place total : 16
- Pourcentage place libre : 56.25%
 
 024 Cité Mion
  Place libre : 3
@@ -1544,9 +1544,9 @@
  Pourcentage place libre : 37.5%
 
 025 Nouveau Saint-Roch
- Place libre : 3
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 62.5%
 
 026 Renouvier
  Place libre : 5
@@ -1559,14 +1559,14 @@
  Pourcentage place libre : 62.5%
 
 028 Saint-Denis
- Place libre : 2
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 25.0%
+ Pourcentage place libre : 50.0%
 
 029 Richter
- Place libre : 11
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 68.75%
+ Pourcentage place libre : 62.5%
 
 030 Charles Flahault
  Place libre : 5
@@ -1574,9 +1574,9 @@
  Pourcentage place libre : 62.5%
 
 031 Voltaire
- Place libre : 7
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 100.0%
 
 032 Prés d'Arènes
  Place libre : 2
@@ -1584,9 +1584,9 @@
  Pourcentage place libre : 25.0%
 
 033 Garcia Lorca
- Place libre : 5
+ Place libre : 0
  Place total : 8
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 0.0%
 
 034 Vert Bois
  Place libre : 16
@@ -1599,29 +1599,29 @@
  Pourcentage place libre : 50.0%
 
 036 Occitanie
- Place libre : 26
+ Place libre : 25
  Place total : 32
- Pourcentage place libre : 81.25%
+ Pourcentage place libre : 78.12%
 
 037 FacdesSciences
- Place libre : 11
+ Place libre : 18
  Place total : 24
- Pourcentage place libre : 45.83%
+ Pourcentage place libre : 75.0%
 
 038 Fac de Lettres
- Place libre : 14
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 039 Aiguelongue
- Place libre : 2
- Place total : 8
- Pourcentage place libre : 25.0%
-
-040 Jeu de Mail des Abbés
  Place libre : 1
  Place total : 8
  Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 041 Euromédecine
  Place libre : 4
@@ -1629,19 +1629,19 @@
  Pourcentage place libre : 50.0%
 
 042 Marie Caizergues
- Place libre : 7
- Place total : 8
- Pourcentage place libre : 87.5%
-
-043 Sabines
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
-
-044 Celleneuve
  Place libre : 6
  Place total : 8
  Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 045 Jardin de la Lironde
  Place libre : 4
@@ -1649,19 +1649,19 @@
  Pourcentage place libre : 50.0%
 
 046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
  Place libre : 5
  Place total : 8
  Pourcentage place libre : 62.5%
-
-047 Place Viala
- Place libre : 4
- Place total : 8
- Pourcentage place libre : 50.0%
-
-048 Hôtel du Département
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
 
 049 Tonnelles
  Place libre : 5
@@ -1679,29 +1679,29 @@
  Pourcentage place libre : 91.67%
 
 053 Deux Ponts - Gare Saint-Roch
- Place libre : 4
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 62.5%
 
 054 Providence - Ovalie
- Place libre : 6
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 75.0%
+ Pourcentage place libre : 100.0%
 
 055 Pérols Etang de l'Or
- Place libre : 53
+ Place libre : 55
  Place total : 68
- Pourcentage place libre : 77.94%
+ Pourcentage place libre : 80.88%
 
 056 Albert 1er - Cathédrale
- Place libre : 6
+ Place libre : 5
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 41.67%
 
 057 Saint-Guilhem - Courreau
- Place libre : 7
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 059 Sud De France
  Place libre : 2
@@ -1714,44 +1714,44 @@
  Pourcentage place libre : 58.33%
 
 002 Comédie
- Place libre : 16
+ Place libre : 17
  Place total : 24
- Pourcentage place libre : 66.67%
+ Pourcentage place libre : 70.83%
 
 003 Esplanade
- Place libre : 30
+ Place libre : 31
  Place total : 32
- Pourcentage place libre : 93.75%
+ Pourcentage place libre : 96.88%
 
 004 Hôtel de Ville
- Place libre : 10
+ Place libre : 12
  Place total : 16
- Pourcentage place libre : 62.5%
-
-005 Corum
- Place libre : 3
- Place total : 12
- Pourcentage place libre : 25.0%
-
-006 Place Albert 1er - St Charles
- Place libre : 19
- Place total : 31
- Pourcentage place libre : 61.29%
-
-007 Foch
- Place libre : 6
- Place total : 8
  Pourcentage place libre : 75.0%
 
-008 Halles Castellane
- Place libre : 6
+005 Corum
+ Place libre : 8
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
 
 009 Observatoire
- Place libre : 3
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 50.0%
 
 010 Rondelet
  Place libre : 6
@@ -1764,9 +1764,9 @@
  Pourcentage place libre : 75.0%
 
 012 Boutonnet
- Place libre : 11
+ Place libre : 9
  Place total : 12
- Pourcentage place libre : 91.67%
+ Pourcentage place libre : 75.0%
 
 013 Emile Combes
  Place libre : 2
@@ -1774,9 +1774,9 @@
  Pourcentage place libre : 25.0%
 
 014 Beaux-Arts
- Place libre : 8
+ Place libre : 6
  Place total : 8
- Pourcentage place libre : 100.0%
+ Pourcentage place libre : 75.0%
 
 015 Les Aubes
  Place libre : 5
@@ -1784,14 +1784,14 @@
  Pourcentage place libre : 62.5%
 
 016 Antigone centre
- Place libre : 6
+ Place libre : 5
  Place total : 16
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 31.25%
 
 017 Médiathèque Emile Zola
- Place libre : 10
+ Place libre : 8
  Place total : 16
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 50.0%
 
 018 Nombre d'Or
  Place libre : 12
@@ -1799,29 +1799,29 @@
  Pourcentage place libre : 75.0%
 
 019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
  Place libre : 8
  Place total : 16
  Pourcentage place libre : 50.0%
-
-020 Gambetta
- Place libre : 5
- Place total : 8
- Pourcentage place libre : 62.5%
-
-021 Port Marianne
- Place libre : 15
- Place total : 16
- Pourcentage place libre : 93.75%
-
-022 Clemenceau
- Place libre : 5
- Place total : 12
- Pourcentage place libre : 41.67%
-
-023 Les Arceaux
- Place libre : 9
- Place total : 16
- Pourcentage place libre : 56.25%
 
 024 Cité Mion
  Place libre : 3
@@ -1829,9 +1829,9 @@
  Pourcentage place libre : 37.5%
 
 025 Nouveau Saint-Roch
- Place libre : 3
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 62.5%
 
 026 Renouvier
  Place libre : 5
@@ -1844,14 +1844,14 @@
  Pourcentage place libre : 62.5%
 
 028 Saint-Denis
- Place libre : 2
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 25.0%
+ Pourcentage place libre : 50.0%
 
 029 Richter
- Place libre : 11
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 68.75%
+ Pourcentage place libre : 62.5%
 
 030 Charles Flahault
  Place libre : 5
@@ -1859,9 +1859,9 @@
  Pourcentage place libre : 62.5%
 
 031 Voltaire
- Place libre : 7
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 100.0%
 
 032 Prés d'Arènes
  Place libre : 2
@@ -1869,9 +1869,9 @@
  Pourcentage place libre : 25.0%
 
 033 Garcia Lorca
- Place libre : 5
+ Place libre : 0
  Place total : 8
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 0.0%
 
 034 Vert Bois
  Place libre : 16
@@ -1884,29 +1884,29 @@
  Pourcentage place libre : 50.0%
 
 036 Occitanie
- Place libre : 26
+ Place libre : 25
  Place total : 32
- Pourcentage place libre : 81.25%
+ Pourcentage place libre : 78.12%
 
 037 FacdesSciences
- Place libre : 11
+ Place libre : 18
  Place total : 24
- Pourcentage place libre : 45.83%
+ Pourcentage place libre : 75.0%
 
 038 Fac de Lettres
- Place libre : 14
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 039 Aiguelongue
- Place libre : 2
- Place total : 8
- Pourcentage place libre : 25.0%
-
-040 Jeu de Mail des Abbés
  Place libre : 1
  Place total : 8
  Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 041 Euromédecine
  Place libre : 4
@@ -1914,19 +1914,19 @@
  Pourcentage place libre : 50.0%
 
 042 Marie Caizergues
- Place libre : 7
- Place total : 8
- Pourcentage place libre : 87.5%
-
-043 Sabines
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
-
-044 Celleneuve
  Place libre : 6
  Place total : 8
  Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 045 Jardin de la Lironde
  Place libre : 4
@@ -1934,19 +1934,19 @@
  Pourcentage place libre : 50.0%
 
 046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
  Place libre : 5
  Place total : 8
  Pourcentage place libre : 62.5%
-
-047 Place Viala
- Place libre : 4
- Place total : 8
- Pourcentage place libre : 50.0%
-
-048 Hôtel du Département
- Place libre : 3
- Place total : 8
- Pourcentage place libre : 37.5%
 
 049 Tonnelles
  Place libre : 5
@@ -1964,29 +1964,29 @@
  Pourcentage place libre : 91.67%
 
 053 Deux Ponts - Gare Saint-Roch
- Place libre : 4
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 62.5%
 
 054 Providence - Ovalie
- Place libre : 6
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 75.0%
+ Pourcentage place libre : 100.0%
 
 055 Pérols Etang de l'Or
- Place libre : 53
+ Place libre : 55
  Place total : 68
- Pourcentage place libre : 77.94%
+ Pourcentage place libre : 80.88%
 
 056 Albert 1er - Cathédrale
- Place libre : 6
+ Place libre : 5
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 41.67%
 
 057 Saint-Guilhem - Courreau
- Place libre : 7
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 059 Sud De France
  Place libre : 2
@@ -1999,44 +1999,44 @@
  Pourcentage place libre : 58.33%
 
 002 Comédie
- Place libre : 16
+ Place libre : 17
  Place total : 24
- Pourcentage place libre : 66.67%
+ Pourcentage place libre : 70.83%
 
 003 Esplanade
- Place libre : 30
+ Place libre : 31
  Place total : 32
- Pourcentage place libre : 93.75%
+ Pourcentage place libre : 96.88%
 
 004 Hôtel de Ville
- Place libre : 10
+ Place libre : 12
  Place total : 16
- Pourcentage place libre : 62.5%
-
-005 Corum
- Place libre : 3
- Place total : 12
- Pourcentage place libre : 25.0%
-
-006 Place Albert 1er - St Charles
- Place libre : 19
- Place total : 31
- Pourcentage place libre : 61.29%
-
-007 Foch
- Place libre : 6
- Place total : 8
  Pourcentage place libre : 75.0%
 
-008 Halles Castellane
- Place libre : 6
+005 Corum
+ Place libre : 8
  Place total : 12
- Pourcentage place libre : 50.0%
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
 
 009 Observatoire
- Place libre : 3
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 50.0%
 
 010 Rondelet
  Place libre : 6
@@ -2049,9 +2049,9 @@
  Pourcentage place libre : 75.0%
 
 012 Boutonnet
- Place libre : 11
+ Place libre : 9
  Place total : 12
- Pourcentage place libre : 91.67%
+ Pourcentage place libre : 75.0%
 
 013 Emile Combes
  Place libre : 2
@@ -2059,9 +2059,9 @@
  Pourcentage place libre : 25.0%
 
 014 Beaux-Arts
- Place libre : 8
+ Place libre : 6
  Place total : 8
- Pourcentage place libre : 100.0%
+ Pourcentage place libre : 75.0%
 
 015 Les Aubes
  Place libre : 5
@@ -2069,14 +2069,14 @@
  Pourcentage place libre : 62.5%
 
 016 Antigone centre
- Place libre : 6
+ Place libre : 5
  Place total : 16
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 31.25%
 
 017 Médiathèque Emile Zola
- Place libre : 10
+ Place libre : 8
  Place total : 16
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 50.0%
 
 018 Nombre d'Or
  Place libre : 12
@@ -2084,29 +2084,29 @@
  Pourcentage place libre : 75.0%
 
 019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
  Place libre : 8
  Place total : 16
  Pourcentage place libre : 50.0%
-
-020 Gambetta
- Place libre : 5
- Place total : 8
- Pourcentage place libre : 62.5%
-
-021 Port Marianne
- Place libre : 15
- Place total : 16
- Pourcentage place libre : 93.75%
-
-022 Clemenceau
- Place libre : 5
- Place total : 12
- Pourcentage place libre : 41.67%
-
-023 Les Arceaux
- Place libre : 9
- Place total : 16
- Pourcentage place libre : 56.25%
 
 024 Cité Mion
  Place libre : 3
@@ -2114,9 +2114,9 @@
  Pourcentage place libre : 37.5%
 
 025 Nouveau Saint-Roch
- Place libre : 3
+ Place libre : 5
  Place total : 8
- Pourcentage place libre : 37.5%
+ Pourcentage place libre : 62.5%
 
 026 Renouvier
  Place libre : 5
@@ -2129,14 +2129,14 @@
  Pourcentage place libre : 62.5%
 
 028 Saint-Denis
- Place libre : 2
+ Place libre : 4
  Place total : 8
- Pourcentage place libre : 25.0%
+ Pourcentage place libre : 50.0%
 
 029 Richter
- Place libre : 11
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 68.75%
+ Pourcentage place libre : 62.5%
 
 030 Charles Flahault
  Place libre : 5
@@ -2144,9 +2144,9 @@
  Pourcentage place libre : 62.5%
 
 031 Voltaire
- Place libre : 7
+ Place libre : 8
  Place total : 8
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 100.0%
 
 032 Prés d'Arènes
  Place libre : 2
@@ -2154,9 +2154,9 @@
  Pourcentage place libre : 25.0%
 
 033 Garcia Lorca
- Place libre : 5
+ Place libre : 0
  Place total : 8
- Pourcentage place libre : 62.5%
+ Pourcentage place libre : 0.0%
 
 034 Vert Bois
  Place libre : 16
@@ -2169,29 +2169,29 @@
  Pourcentage place libre : 50.0%
 
 036 Occitanie
- Place libre : 26
+ Place libre : 25
  Place total : 32
- Pourcentage place libre : 81.25%
+ Pourcentage place libre : 78.12%
 
 037 FacdesSciences
- Place libre : 11
+ Place libre : 18
  Place total : 24
- Pourcentage place libre : 45.83%
+ Pourcentage place libre : 75.0%
 
 038 Fac de Lettres
- Place libre : 14
+ Place libre : 10
  Place total : 16
- Pourcentage place libre : 87.5%
+ Pourcentage place libre : 62.5%
 
 039 Aiguelongue
- Place libre : 2
- Place total : 8
- Pourcentage place libre : 25.0%
-
-040 Jeu de Mail des Abbés
  Place libre : 1
  Place total : 8
  Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
 
 041 Euromédecine
  Place libre : 4
@@ -2199,6 +2199,3502 @@
  Pourcentage place libre : 50.0%
 
 042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
  Place libre : 7
  Place total : 8
  Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+001 Rue Jules Ferry - Gare Saint-Roch
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+002 Comédie
+ Place libre : 17
+ Place total : 24
+ Pourcentage place libre : 70.83%
+
+003 Esplanade
+ Place libre : 31
+ Place total : 32
+ Pourcentage place libre : 96.88%
+
+004 Hôtel de Ville
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+005 Corum
+ Place libre : 8
+ Place total : 12
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+009 Observatoire
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+010 Rondelet
+ Place libre : 6
+ Place total : 16
+ Pourcentage place libre : 37.5%
+
+011 Plan Cabanes
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+012 Boutonnet
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+013 Emile Combes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+014 Beaux-Arts
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+015 Les Aubes
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+016 Antigone centre
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+017 Médiathèque Emile Zola
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+018 Nombre d'Or
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+024 Cité Mion
+ Place libre : 3
+ Place total : 8
+ Pourcentage place libre : 37.5%
+
+025 Nouveau Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+026 Renouvier
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+027 Odysseum
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+028 Saint-Denis
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+029 Richter
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+030 Charles Flahault
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+031 Voltaire
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+032 Prés d'Arènes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+033 Garcia Lorca
+ Place libre : 0
+ Place total : 8
+ Pourcentage place libre : 0.0%
+
+034 Vert Bois
+ Place libre : 16
+ Place total : 16
+ Pourcentage place libre : 100.0%
+
+035 Malbosc
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+036 Occitanie
+ Place libre : 25
+ Place total : 32
+ Pourcentage place libre : 78.12%
+
+037 FacdesSciences
+ Place libre : 18
+ Place total : 24
+ Pourcentage place libre : 75.0%
+
+038 Fac de Lettres
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+039 Aiguelongue
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+041 Euromédecine
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+001 Rue Jules Ferry - Gare Saint-Roch
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+002 Comédie
+ Place libre : 17
+ Place total : 24
+ Pourcentage place libre : 70.83%
+
+003 Esplanade
+ Place libre : 31
+ Place total : 32
+ Pourcentage place libre : 96.88%
+
+004 Hôtel de Ville
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+005 Corum
+ Place libre : 8
+ Place total : 12
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+009 Observatoire
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+010 Rondelet
+ Place libre : 6
+ Place total : 16
+ Pourcentage place libre : 37.5%
+
+011 Plan Cabanes
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+012 Boutonnet
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+013 Emile Combes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+014 Beaux-Arts
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+015 Les Aubes
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+016 Antigone centre
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+017 Médiathèque Emile Zola
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+018 Nombre d'Or
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+024 Cité Mion
+ Place libre : 3
+ Place total : 8
+ Pourcentage place libre : 37.5%
+
+025 Nouveau Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+026 Renouvier
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+027 Odysseum
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+028 Saint-Denis
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+029 Richter
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+030 Charles Flahault
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+031 Voltaire
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+032 Prés d'Arènes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+033 Garcia Lorca
+ Place libre : 0
+ Place total : 8
+ Pourcentage place libre : 0.0%
+
+034 Vert Bois
+ Place libre : 16
+ Place total : 16
+ Pourcentage place libre : 100.0%
+
+035 Malbosc
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+036 Occitanie
+ Place libre : 25
+ Place total : 32
+ Pourcentage place libre : 78.12%
+
+037 FacdesSciences
+ Place libre : 18
+ Place total : 24
+ Pourcentage place libre : 75.0%
+
+038 Fac de Lettres
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+039 Aiguelongue
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+041 Euromédecine
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+001 Rue Jules Ferry - Gare Saint-Roch
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+002 Comédie
+ Place libre : 17
+ Place total : 24
+ Pourcentage place libre : 70.83%
+
+003 Esplanade
+ Place libre : 31
+ Place total : 32
+ Pourcentage place libre : 96.88%
+
+004 Hôtel de Ville
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+005 Corum
+ Place libre : 8
+ Place total : 12
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+009 Observatoire
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+010 Rondelet
+ Place libre : 6
+ Place total : 16
+ Pourcentage place libre : 37.5%
+
+011 Plan Cabanes
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+012 Boutonnet
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+013 Emile Combes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+014 Beaux-Arts
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+015 Les Aubes
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+016 Antigone centre
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+017 Médiathèque Emile Zola
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+018 Nombre d'Or
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+024 Cité Mion
+ Place libre : 3
+ Place total : 8
+ Pourcentage place libre : 37.5%
+
+025 Nouveau Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+026 Renouvier
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+027 Odysseum
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+028 Saint-Denis
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+029 Richter
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+030 Charles Flahault
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+031 Voltaire
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+032 Prés d'Arènes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+033 Garcia Lorca
+ Place libre : 0
+ Place total : 8
+ Pourcentage place libre : 0.0%
+
+034 Vert Bois
+ Place libre : 16
+ Place total : 16
+ Pourcentage place libre : 100.0%
+
+035 Malbosc
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+036 Occitanie
+ Place libre : 25
+ Place total : 32
+ Pourcentage place libre : 78.12%
+
+037 FacdesSciences
+ Place libre : 18
+ Place total : 24
+ Pourcentage place libre : 75.0%
+
+038 Fac de Lettres
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+039 Aiguelongue
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+041 Euromédecine
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+001 Rue Jules Ferry - Gare Saint-Roch
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+002 Comédie
+ Place libre : 17
+ Place total : 24
+ Pourcentage place libre : 70.83%
+
+003 Esplanade
+ Place libre : 31
+ Place total : 32
+ Pourcentage place libre : 96.88%
+
+004 Hôtel de Ville
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+005 Corum
+ Place libre : 8
+ Place total : 12
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+009 Observatoire
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+010 Rondelet
+ Place libre : 6
+ Place total : 16
+ Pourcentage place libre : 37.5%
+
+011 Plan Cabanes
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+012 Boutonnet
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+013 Emile Combes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+014 Beaux-Arts
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+015 Les Aubes
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+016 Antigone centre
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+017 Médiathèque Emile Zola
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+018 Nombre d'Or
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+024 Cité Mion
+ Place libre : 3
+ Place total : 8
+ Pourcentage place libre : 37.5%
+
+025 Nouveau Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+026 Renouvier
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+027 Odysseum
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+028 Saint-Denis
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+029 Richter
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+030 Charles Flahault
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+031 Voltaire
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+032 Prés d'Arènes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+033 Garcia Lorca
+ Place libre : 0
+ Place total : 8
+ Pourcentage place libre : 0.0%
+
+034 Vert Bois
+ Place libre : 16
+ Place total : 16
+ Pourcentage place libre : 100.0%
+
+035 Malbosc
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+036 Occitanie
+ Place libre : 25
+ Place total : 32
+ Pourcentage place libre : 78.12%
+
+037 FacdesSciences
+ Place libre : 18
+ Place total : 24
+ Pourcentage place libre : 75.0%
+
+038 Fac de Lettres
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+039 Aiguelongue
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+041 Euromédecine
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+001 Rue Jules Ferry - Gare Saint-Roch
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+002 Comédie
+ Place libre : 17
+ Place total : 24
+ Pourcentage place libre : 70.83%
+
+003 Esplanade
+ Place libre : 31
+ Place total : 32
+ Pourcentage place libre : 96.88%
+
+004 Hôtel de Ville
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+005 Corum
+ Place libre : 8
+ Place total : 12
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+009 Observatoire
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+010 Rondelet
+ Place libre : 6
+ Place total : 16
+ Pourcentage place libre : 37.5%
+
+011 Plan Cabanes
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+012 Boutonnet
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+013 Emile Combes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+014 Beaux-Arts
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+015 Les Aubes
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+016 Antigone centre
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+017 Médiathèque Emile Zola
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+018 Nombre d'Or
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+024 Cité Mion
+ Place libre : 3
+ Place total : 8
+ Pourcentage place libre : 37.5%
+
+025 Nouveau Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+026 Renouvier
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+027 Odysseum
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+028 Saint-Denis
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+029 Richter
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+030 Charles Flahault
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+031 Voltaire
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+032 Prés d'Arènes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+033 Garcia Lorca
+ Place libre : 0
+ Place total : 8
+ Pourcentage place libre : 0.0%
+
+034 Vert Bois
+ Place libre : 16
+ Place total : 16
+ Pourcentage place libre : 100.0%
+
+035 Malbosc
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+036 Occitanie
+ Place libre : 25
+ Place total : 32
+ Pourcentage place libre : 78.12%
+
+037 FacdesSciences
+ Place libre : 18
+ Place total : 24
+ Pourcentage place libre : 75.0%
+
+038 Fac de Lettres
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+039 Aiguelongue
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+041 Euromédecine
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+001 Rue Jules Ferry - Gare Saint-Roch
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+002 Comédie
+ Place libre : 17
+ Place total : 24
+ Pourcentage place libre : 70.83%
+
+003 Esplanade
+ Place libre : 31
+ Place total : 32
+ Pourcentage place libre : 96.88%
+
+004 Hôtel de Ville
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+005 Corum
+ Place libre : 8
+ Place total : 12
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+009 Observatoire
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+010 Rondelet
+ Place libre : 6
+ Place total : 16
+ Pourcentage place libre : 37.5%
+
+011 Plan Cabanes
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+012 Boutonnet
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+013 Emile Combes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+014 Beaux-Arts
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+015 Les Aubes
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+016 Antigone centre
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+017 Médiathèque Emile Zola
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+018 Nombre d'Or
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+024 Cité Mion
+ Place libre : 3
+ Place total : 8
+ Pourcentage place libre : 37.5%
+
+025 Nouveau Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+026 Renouvier
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+027 Odysseum
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+028 Saint-Denis
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+029 Richter
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+030 Charles Flahault
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+031 Voltaire
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+032 Prés d'Arènes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+033 Garcia Lorca
+ Place libre : 0
+ Place total : 8
+ Pourcentage place libre : 0.0%
+
+034 Vert Bois
+ Place libre : 16
+ Place total : 16
+ Pourcentage place libre : 100.0%
+
+035 Malbosc
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+036 Occitanie
+ Place libre : 25
+ Place total : 32
+ Pourcentage place libre : 78.12%
+
+037 FacdesSciences
+ Place libre : 18
+ Place total : 24
+ Pourcentage place libre : 75.0%
+
+038 Fac de Lettres
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+039 Aiguelongue
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+041 Euromédecine
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+001 Rue Jules Ferry - Gare Saint-Roch
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+002 Comédie
+ Place libre : 17
+ Place total : 24
+ Pourcentage place libre : 70.83%
+
+003 Esplanade
+ Place libre : 31
+ Place total : 32
+ Pourcentage place libre : 96.88%
+
+004 Hôtel de Ville
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+005 Corum
+ Place libre : 8
+ Place total : 12
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+009 Observatoire
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+010 Rondelet
+ Place libre : 6
+ Place total : 16
+ Pourcentage place libre : 37.5%
+
+011 Plan Cabanes
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+012 Boutonnet
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+013 Emile Combes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+014 Beaux-Arts
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+015 Les Aubes
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+016 Antigone centre
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+017 Médiathèque Emile Zola
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+018 Nombre d'Or
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+024 Cité Mion
+ Place libre : 3
+ Place total : 8
+ Pourcentage place libre : 37.5%
+
+025 Nouveau Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+026 Renouvier
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+027 Odysseum
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+028 Saint-Denis
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+029 Richter
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+030 Charles Flahault
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+031 Voltaire
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+032 Prés d'Arènes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+033 Garcia Lorca
+ Place libre : 0
+ Place total : 8
+ Pourcentage place libre : 0.0%
+
+034 Vert Bois
+ Place libre : 16
+ Place total : 16
+ Pourcentage place libre : 100.0%
+
+035 Malbosc
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+036 Occitanie
+ Place libre : 25
+ Place total : 32
+ Pourcentage place libre : 78.12%
+
+037 FacdesSciences
+ Place libre : 18
+ Place total : 24
+ Pourcentage place libre : 75.0%
+
+038 Fac de Lettres
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+039 Aiguelongue
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+041 Euromédecine
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+001 Rue Jules Ferry - Gare Saint-Roch
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+002 Comédie
+ Place libre : 17
+ Place total : 24
+ Pourcentage place libre : 70.83%
+
+003 Esplanade
+ Place libre : 31
+ Place total : 32
+ Pourcentage place libre : 96.88%
+
+004 Hôtel de Ville
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+005 Corum
+ Place libre : 8
+ Place total : 12
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+009 Observatoire
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+010 Rondelet
+ Place libre : 6
+ Place total : 16
+ Pourcentage place libre : 37.5%
+
+011 Plan Cabanes
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+012 Boutonnet
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+013 Emile Combes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+014 Beaux-Arts
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+015 Les Aubes
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+016 Antigone centre
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+017 Médiathèque Emile Zola
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+018 Nombre d'Or
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+024 Cité Mion
+ Place libre : 3
+ Place total : 8
+ Pourcentage place libre : 37.5%
+
+025 Nouveau Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+026 Renouvier
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+027 Odysseum
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+028 Saint-Denis
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+029 Richter
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+030 Charles Flahault
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+031 Voltaire
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+032 Prés d'Arènes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+033 Garcia Lorca
+ Place libre : 0
+ Place total : 8
+ Pourcentage place libre : 0.0%
+
+034 Vert Bois
+ Place libre : 16
+ Place total : 16
+ Pourcentage place libre : 100.0%
+
+035 Malbosc
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+036 Occitanie
+ Place libre : 25
+ Place total : 32
+ Pourcentage place libre : 78.12%
+
+037 FacdesSciences
+ Place libre : 18
+ Place total : 24
+ Pourcentage place libre : 75.0%
+
+038 Fac de Lettres
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+039 Aiguelongue
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+041 Euromédecine
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+001 Rue Jules Ferry - Gare Saint-Roch
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+002 Comédie
+ Place libre : 17
+ Place total : 24
+ Pourcentage place libre : 70.83%
+
+003 Esplanade
+ Place libre : 31
+ Place total : 32
+ Pourcentage place libre : 96.88%
+
+004 Hôtel de Ville
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+005 Corum
+ Place libre : 8
+ Place total : 12
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+009 Observatoire
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+010 Rondelet
+ Place libre : 6
+ Place total : 16
+ Pourcentage place libre : 37.5%
+
+011 Plan Cabanes
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+012 Boutonnet
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+013 Emile Combes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+014 Beaux-Arts
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+015 Les Aubes
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+016 Antigone centre
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+017 Médiathèque Emile Zola
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+018 Nombre d'Or
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+024 Cité Mion
+ Place libre : 3
+ Place total : 8
+ Pourcentage place libre : 37.5%
+
+025 Nouveau Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+026 Renouvier
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+027 Odysseum
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+028 Saint-Denis
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+029 Richter
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+030 Charles Flahault
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+031 Voltaire
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+032 Prés d'Arènes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+033 Garcia Lorca
+ Place libre : 0
+ Place total : 8
+ Pourcentage place libre : 0.0%
+
+034 Vert Bois
+ Place libre : 16
+ Place total : 16
+ Pourcentage place libre : 100.0%
+
+035 Malbosc
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+036 Occitanie
+ Place libre : 25
+ Place total : 32
+ Pourcentage place libre : 78.12%
+
+037 FacdesSciences
+ Place libre : 18
+ Place total : 24
+ Pourcentage place libre : 75.0%
+
+038 Fac de Lettres
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+039 Aiguelongue
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+041 Euromédecine
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+001 Rue Jules Ferry - Gare Saint-Roch
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+002 Comédie
+ Place libre : 17
+ Place total : 24
+ Pourcentage place libre : 70.83%
+
+003 Esplanade
+ Place libre : 31
+ Place total : 32
+ Pourcentage place libre : 96.88%
+
+004 Hôtel de Ville
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+005 Corum
+ Place libre : 8
+ Place total : 12
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+009 Observatoire
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+010 Rondelet
+ Place libre : 6
+ Place total : 16
+ Pourcentage place libre : 37.5%
+
+011 Plan Cabanes
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+012 Boutonnet
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+013 Emile Combes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+014 Beaux-Arts
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+015 Les Aubes
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+016 Antigone centre
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+017 Médiathèque Emile Zola
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+018 Nombre d'Or
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+024 Cité Mion
+ Place libre : 3
+ Place total : 8
+ Pourcentage place libre : 37.5%
+
+025 Nouveau Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+026 Renouvier
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+027 Odysseum
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+028 Saint-Denis
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+029 Richter
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+030 Charles Flahault
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+031 Voltaire
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+032 Prés d'Arènes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+033 Garcia Lorca
+ Place libre : 0
+ Place total : 8
+ Pourcentage place libre : 0.0%
+
+034 Vert Bois
+ Place libre : 16
+ Place total : 16
+ Pourcentage place libre : 100.0%
+
+035 Malbosc
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+036 Occitanie
+ Place libre : 25
+ Place total : 32
+ Pourcentage place libre : 78.12%
+
+037 FacdesSciences
+ Place libre : 18
+ Place total : 24
+ Pourcentage place libre : 75.0%
+
+038 Fac de Lettres
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+039 Aiguelongue
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+041 Euromédecine
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+001 Rue Jules Ferry - Gare Saint-Roch
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+002 Comédie
+ Place libre : 17
+ Place total : 24
+ Pourcentage place libre : 70.83%
+
+003 Esplanade
+ Place libre : 31
+ Place total : 32
+ Pourcentage place libre : 96.88%
+
+004 Hôtel de Ville
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+005 Corum
+ Place libre : 8
+ Place total : 12
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+009 Observatoire
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+010 Rondelet
+ Place libre : 6
+ Place total : 16
+ Pourcentage place libre : 37.5%
+
+011 Plan Cabanes
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+012 Boutonnet
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+013 Emile Combes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+014 Beaux-Arts
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+015 Les Aubes
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+016 Antigone centre
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+017 Médiathèque Emile Zola
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+018 Nombre d'Or
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+024 Cité Mion
+ Place libre : 3
+ Place total : 8
+ Pourcentage place libre : 37.5%
+
+025 Nouveau Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+026 Renouvier
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+027 Odysseum
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+028 Saint-Denis
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+029 Richter
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+030 Charles Flahault
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+031 Voltaire
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+032 Prés d'Arènes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+033 Garcia Lorca
+ Place libre : 0
+ Place total : 8
+ Pourcentage place libre : 0.0%
+
+034 Vert Bois
+ Place libre : 16
+ Place total : 16
+ Pourcentage place libre : 100.0%
+
+035 Malbosc
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+036 Occitanie
+ Place libre : 25
+ Place total : 32
+ Pourcentage place libre : 78.12%
+
+037 FacdesSciences
+ Place libre : 18
+ Place total : 24
+ Pourcentage place libre : 75.0%
+
+038 Fac de Lettres
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+039 Aiguelongue
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+041 Euromédecine
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+001 Rue Jules Ferry - Gare Saint-Roch
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+002 Comédie
+ Place libre : 17
+ Place total : 24
+ Pourcentage place libre : 70.83%
+
+003 Esplanade
+ Place libre : 31
+ Place total : 32
+ Pourcentage place libre : 96.88%
+
+004 Hôtel de Ville
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+005 Corum
+ Place libre : 8
+ Place total : 12
+ Pourcentage place libre : 66.67%
+
+006 Place Albert 1er - St Charles
+ Place libre : 14
+ Place total : 31
+ Pourcentage place libre : 45.16%
+
+007 Foch
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+008 Halles Castellane
+ Place libre : 7
+ Place total : 12
+ Pourcentage place libre : 58.33%
+
+009 Observatoire
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+010 Rondelet
+ Place libre : 6
+ Place total : 16
+ Pourcentage place libre : 37.5%
+
+011 Plan Cabanes
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+012 Boutonnet
+ Place libre : 9
+ Place total : 12
+ Pourcentage place libre : 75.0%
+
+013 Emile Combes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+014 Beaux-Arts
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+015 Les Aubes
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+016 Antigone centre
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+017 Médiathèque Emile Zola
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+018 Nombre d'Or
+ Place libre : 12
+ Place total : 16
+ Pourcentage place libre : 75.0%
+
+019 Louis Blanc
+ Place libre : 5
+ Place total : 16
+ Pourcentage place libre : 31.25%
+
+020 Gambetta
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+021 Port Marianne
+ Place libre : 13
+ Place total : 16
+ Pourcentage place libre : 81.25%
+
+022 Clemenceau
+ Place libre : 2
+ Place total : 12
+ Pourcentage place libre : 16.67%
+
+023 Les Arceaux
+ Place libre : 8
+ Place total : 16
+ Pourcentage place libre : 50.0%
+
+024 Cité Mion
+ Place libre : 3
+ Place total : 8
+ Pourcentage place libre : 37.5%
+
+025 Nouveau Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+026 Renouvier
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+027 Odysseum
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+028 Saint-Denis
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+029 Richter
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+030 Charles Flahault
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+031 Voltaire
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+032 Prés d'Arènes
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+
+033 Garcia Lorca
+ Place libre : 0
+ Place total : 8
+ Pourcentage place libre : 0.0%
+
+034 Vert Bois
+ Place libre : 16
+ Place total : 16
+ Pourcentage place libre : 100.0%
+
+035 Malbosc
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+036 Occitanie
+ Place libre : 25
+ Place total : 32
+ Pourcentage place libre : 78.12%
+
+037 FacdesSciences
+ Place libre : 18
+ Place total : 24
+ Pourcentage place libre : 75.0%
+
+038 Fac de Lettres
+ Place libre : 10
+ Place total : 16
+ Pourcentage place libre : 62.5%
+
+039 Aiguelongue
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+040 Jeu de Mail des Abbés
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+041 Euromédecine
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+042 Marie Caizergues
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+043 Sabines
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+044 Celleneuve
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+045 Jardin de la Lironde
+ Place libre : 4
+ Place total : 8
+ Pourcentage place libre : 50.0%
+
+046 Père Soulas
+ Place libre : 7
+ Place total : 8
+ Pourcentage place libre : 87.5%
+
+047 Place Viala
+ Place libre : 6
+ Place total : 8
+ Pourcentage place libre : 75.0%
+
+048 Hôtel du Département
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+049 Tonnelles
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+050 Parvis Jules Ferry - Gare Saint-Roch
+ Place libre : 1
+ Place total : 8
+ Pourcentage place libre : 12.5%
+
+051 Pont de Lattes - Gare Saint-Roch
+ Place libre : 11
+ Place total : 12
+ Pourcentage place libre : 91.67%
+
+053 Deux Ponts - Gare Saint-Roch
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+054 Providence - Ovalie
+ Place libre : 8
+ Place total : 8
+ Pourcentage place libre : 100.0%
+
+055 Pérols Etang de l'Or
+ Place libre : 55
+ Place total : 68
+ Pourcentage place libre : 80.88%
+
+056 Albert 1er - Cathédrale
+ Place libre : 5
+ Place total : 12
+ Pourcentage place libre : 41.67%
+
+057 Saint-Guilhem - Courreau
+ Place libre : 5
+ Place total : 8
+ Pourcentage place libre : 62.5%
+
+059 Sud De France
+ Place libre : 2
+ Place total : 8
+ Pourcentage place libre : 25.0%
+

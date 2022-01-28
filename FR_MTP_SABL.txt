@@ -1,4 +1,4 @@
 Nom du parking :SABL
 Nombre total de places totales :0372
-Nombre de places libres :0097
-Pourcentage de places libres : 26.08%
+Nombre de places libres :0118
+Pourcentage de places libres : 31.72%

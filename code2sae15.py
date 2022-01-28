@@ -15,7 +15,7 @@ def recupvelo ():
         f2=open("Resultat.txt",'w',encoding='utf8')
         tree=etree.parse('velo.xml')
         f1=open("datavelo.txt", "w",encoding="utf8")
-        for i in range(0, 60):    
+        for i in range(0, 20):    
             for si in tree.xpath('/vcs/sl/si'):
                 nom=si.get('na')
                 place_libre=si.get('fr')
