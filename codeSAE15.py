@@ -14,7 +14,7 @@ def recupparking(v):
 
     f1=open("dataparking.txt","w",encoding='utf8')
     
-    for i in range(0,20):
+    for i in range(0,50):
 
 
         total_place=0#Pour pourcentage total 

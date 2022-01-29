@@ -1,4 +1,4 @@
 Nom du parking :SABI
 Nombre total de places totales :0485
-Nombre de places libres :0266
-Pourcentage de places libres : 54.85%
+Nombre de places libres :0288
+Pourcentage de places libres : 59.38%

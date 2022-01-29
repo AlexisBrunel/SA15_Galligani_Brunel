@@ -1,4 +1,4 @@
 Nom du parking :GARE
 Nombre total de places totales :656
-Nombre de places libres :334
-Pourcentage de places libres : 50.91%
+Nombre de places libres :349
+Pourcentage de places libres : 53.2%

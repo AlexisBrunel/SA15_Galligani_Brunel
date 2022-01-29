@@ -1,4 +1,4 @@
 Nom du parking :MEDC
 Nombre total de places totales :0255
-Nombre de places libres :0126
-Pourcentage de places libres : 49.41%
+Nombre de places libres :0152
+Pourcentage de places libres : 59.61%

@@ -1,4 +1,4 @@
 Nom du parking :CORU
 Nombre total de places totales :0430
-Nombre de places libres :0100
-Pourcentage de places libres : 23.26%
+Nombre de places libres :0216
+Pourcentage de places libres : 50.23%

@@ -1,4 +1,4 @@
 Nom du parking :MOSS
 Nombre total de places totales :0423
-Nombre de places libres :0069
-Pourcentage de places libres : 16.31%
+Nombre de places libres :0132
+Pourcentage de places libres : 31.21%

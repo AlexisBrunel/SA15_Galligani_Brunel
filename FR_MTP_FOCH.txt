@@ -1,4 +1,4 @@
 Nom du parking :FOCH
 Nombre total de places totales :0540
-Nombre de places libres :0114
-Pourcentage de places libres : 21.11%
+Nombre de places libres :0140
+Pourcentage de places libres : 25.93%

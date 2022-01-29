@@ -1,4 +1,4 @@
 Nom du parking :GARD
 Nombre total de places totales :0395
-Nombre de places libres :0260
-Pourcentage de places libres : 65.82%
+Nombre de places libres :0284
+Pourcentage de places libres : 71.9%

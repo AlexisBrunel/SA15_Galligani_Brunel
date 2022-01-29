@@ -1,4 +1,4 @@
 Nom du parking :CDGA
 Nombre total de places totales :0260
-Nombre de places libres :0094
-Pourcentage de places libres : 36.15%
+Nombre de places libres :0114
+Pourcentage de places libres : 43.85%

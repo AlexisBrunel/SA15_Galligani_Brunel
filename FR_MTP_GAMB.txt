@@ -1,4 +1,4 @@
 Nom du parking :GAMB
 Nombre total de places totales :0470
-Nombre de places libres :0101
-Pourcentage de places libres : 21.49%
+Nombre de places libres :0102
+Pourcentage de places libres : 21.7%
