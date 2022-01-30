@@ -1,6 +1,6 @@
-set xlabel 'time'
-set ylabel 'pourcentage'
-set xrange [0:100]
-set yrange [0:120]
-plot "C:\\Users\\alexi\\OneDrive\\Bureau\\Sae15\\dataparking" using 1:2 with lines title 'parking'
 
+gnuplot> set xlabel "temps en minute" ;
+gnuplot> set ylabel "pourcentage de place libres" ;
+gnuplot> set yrange [50:65] ;
+gnuplot> set xrange [0:50] ;
+gnuplot> plot "C:\\Users\\j06j0\\OneDrive\\Bureau\\dataparking.txt" using 1:2 title "parking" with lines, "C:\\Users\\j06j0\\OneDrive\\Bureau\\datavelo.txt" using 1:2 title "velo" with lines  

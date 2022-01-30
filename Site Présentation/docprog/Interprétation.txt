@@ -1,0 +1,11 @@
+Nous avons effectué  les mesures sur 50 min et nous pouvons voir que les vélos n'ont pas été utilisé
+Car la courbe du pourcentage de place libres de velo est constante sur l interval [0:50]
+Pour ce qui en est de l'utilsation des voitures: la courbe est croissante sur l interval [0:50]
+Donc le pourcentage de places libres de parking a augmenté donc les voituresont été moins utilisé
+
+Nous pouvons en déduire qu il n ya pas de lien entre l'utilisation des vélos et des voitures.
+Car meme sans calcul ont déduis qu il n y a pas de covarience entre les courbes (variation de l'une alors que l autre est constante)
+Mais ces conclusions sont valables uniquement pour un intervalle de 50min ( de 22h10 à 23h )
+Il faudrait prendres les valeurs sur un interval de temps beaucoup plus grands pour mieux se rendre compte (comme 1 journée)
+
+Pour conclure , avec les mesures effectuées dans ces conditions , il n y a pas de lien entre l'utilisation des vélos et des voitures.
