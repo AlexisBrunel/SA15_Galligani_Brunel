@@ -35,4 +35,4 @@ Eléments:
 <br/>
 -velo.xml
 <br/>
--gnuplot.txt (commande entrez dans gnuplot)
+-gnuplot.txt (commande entrée dans gnuplot)
