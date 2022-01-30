@@ -9,7 +9,7 @@ Ouvrir Site présentation et glisser le fichier
 index  dans votre navigateur . 
 Si tout fonctionne vous aurez notre site internet crée en html contenant notre Sae 
 <br/>
-Elément:
+Eléments:
 <br/>
 -Site Présentation
 <br/>
