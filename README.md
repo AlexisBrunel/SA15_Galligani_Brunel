@@ -1,7 +1,7 @@
 # SA15_Galligani_Brunel
 
 
-## Comment utilisé les dossiers ?
+## Comment utiliser les dossiers ?
 
 Pour l'interprétation vous devez télécharger notre dossier Git hub complet .
 <br/>
