@@ -28,13 +28,13 @@ nav.menu-nav ul li.btn a{
 nav.menu-nav ul li.btn1{
 	list-style-type:none;
 	display:inline-block;
-	margin-left:300px;
+	margin-left:250px;
 }
 nav.menu-nav ul li.btn1 a{
 	color:#1406d8;
 	background-color:#85aacf;
 	text-decoration:none;
-	padding-left: 60%;
+	padding-left: 55%;
 	padding-right:60px;
 	padding-top:15px;
 	padding-bottom:15px;
@@ -174,7 +174,9 @@ nav.menu-nav ul h6.text {
 
 nav.menu-nav footer ul h3{
 	color:#f5870a;
+	font-size:15px;
 }
+
 
 
 
@@ -187,7 +189,7 @@ footer{
 }
 footer h1 a {
 	color:white;
-	text-align:center;
+	font-size:17px;
 	
 }
 
